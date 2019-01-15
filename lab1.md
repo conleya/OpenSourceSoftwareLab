@@ -1,2 +1,2 @@
 
-Linux tree usage ![tree command output](images/treeScreenshot.png)
+Linux tree usage ![tree command output](images/treeScreenShot.png)
